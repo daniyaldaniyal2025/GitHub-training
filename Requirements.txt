@@ -1,3 +1,5 @@
 This is chat application
 Emoji
 Type option 
+Dark mod 
+Video call
